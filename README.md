@@ -40,7 +40,7 @@ This project focuses on data wrangling and business insights analysis of a **Sup
 ## 🚀 How to Use This Repository
 1. Clone the repository:
    ```bash
-   git clone https://github.com/MohamedElmogy25/supermarket-sales-analysis.git
+   git clone https://github.com/mohammedelmogy7500/supermarket-sales-analysis.git
    ```
 2. Navigate to the project folder:
    ```bash
@@ -49,7 +49,7 @@ This project focuses on data wrangling and business insights analysis of a **Sup
 3. Open the Jupyter Notebook to explore data wrangling steps.
 
 ## ✨ Authors & Acknowledgments
-- **Author**: Mohammed Elmogy
+- **Author**: Mohammed Waleed Elmogy
 - **Acknowledgment**: Data sourced from the Supermarket Sales dataset.
 
 ## 📜 License
